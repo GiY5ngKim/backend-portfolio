@@ -7,7 +7,7 @@
 - 형태: 팀 프로젝트
 - 담당: Backend
 - Repository: https://github.com/MO-YEO/BE
-- 주요 기술: Java, Spring Boot, Spring Data JPA, MySQL, Spring Security, OAuth 2.0, AWS EC2, Nginx
+- 주요 기술: Java, Spring Boot, Spring Data JPA, PostgreSQL, Spring Security, OAuth 2.0, AWS EC2, Nginx
 
 ## 2. 담당 기능
 
