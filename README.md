@@ -13,7 +13,7 @@
 
 | 프로젝트 | 설명 | 핵심 기술 | 담당 영역 |
 |---|---|---|---|
-| [MO-YEO](projects/moyeo.md) | 모임 모집·지원 플랫폼 | Spring Boot, JPA, MySQL, OAuth 2.0 | 모집, 지원, 게시판, 후기, 회원 탈퇴 |
+| [MO-YEO](projects/moyeo.md) | 모임 모집·지원 플랫폼 | Spring Boot, JPA, PostgerSQL, OAuth 2.0 | 모집, 지원, 게시판, 후기, 회원 탈퇴 |
 | [Stology](projects/stology.md) | AI 학습 리포트·지식 그래프 서비스 | Spring Boot, MariaDB, Neo4j | AI 리포트, 스케줄러, 지식 그래프 |
 | [AI비서 하양이](projects/hayangi.md) | 교내 정보 검색·민원 지원 AI 서비스 | BERT, TF-IDF, LLM | 아이디어 설계 및 프로토타입 |
 
